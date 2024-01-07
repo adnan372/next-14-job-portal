@@ -1,0 +1,1 @@
+export const COMPANY_PLACEHOLDER_LOGS = require('@/assets/company-logo-placeholder.png')
